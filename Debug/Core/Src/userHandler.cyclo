@@ -1,0 +1,11 @@
+../Core/Src/userHandler.c:50:10:strtoI	2
+../Core/Src/userHandler.c:78:5:base64_decode	12
+../Core/Src/userHandler.c:112:6:extract	3
+../Core/Src/userHandler.c:129:9:predefined_get_cgi_processor	10
+../Core/Src/userHandler.c:184:9:predefined_set_cgi_processor	12
+../Core/Src/userHandler.c:275:6:make_json_dio	1
+../Core/Src/userHandler.c:290:6:make_json_ain	1
+../Core/Src/userHandler.c:300:6:make_json_netinfo	1
+../Core/Src/userHandler.c:326:8:set_diodir	3
+../Core/Src/userHandler.c:350:8:set_diostate	3
+../Core/Src/userHandler.c:373:10:crc32	6

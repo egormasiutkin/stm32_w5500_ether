@@ -1,0 +1,6 @@
+../Core/Src/buttons.c:43:6:Btn1_Process	11
+../Core/Src/buttons.c:149:6:Btn2_Process	11
+../Core/Src/buttons.c:592:6:BTN1_Is_Pressed	1
+../Core/Src/buttons.c:596:6:BTN2_Is_Pressed	1
+../Core/Src/buttons.c:600:6:BTN3_Is_Pressed	1
+../Core/Src/buttons.c:604:6:SetBtnPress	3

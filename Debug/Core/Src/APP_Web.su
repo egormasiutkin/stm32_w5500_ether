@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm0plus.h:985:34:__NVIC_SystemReset	8	static,ignoring_inline_asm
+../Core/Src/APP_Web.c:97:8:get_epoch_time	80	static
+../Core/Src/APP_Web.c:113:9:Get_Hours	32	static
+../Core/Src/APP_Web.c:121:9:Get_Minutes	32	static
+../Core/Src/APP_Web.c:130:6:print_network_information	40	static
+../Core/Src/APP_Web.c:142:5:process_dhcp	16	static
+../Core/Src/APP_Web.c:179:6:Init_WebAPP	24	static
+../Core/Src/APP_Web.c:262:6:Task_WebAPP	16	static
+../Core/Src/APP_Web.c:278:6:App_web_get_time_and_sync	80	static
+../Core/Src/APP_Web.c:321:6:App_web_show_sys_time	40	static
+../Core/Src/APP_Web.c:346:6:time_sync_page_callback	24	static
+../Core/Src/APP_Web.c:365:6:set_time_sync_callback	56	static
+../Core/Src/APP_Web.c:469:6:get_time_sync_callback	56	static
+../Core/Src/APP_Web.c:491:6:set_alarm_callback	80	static
+../Core/Src/APP_Web.c:590:6:set_file_callback	40	static
+../Core/Src/APP_Web.c:615:6:get_file_callback	24	static
+../Core/Src/APP_Web.c:634:6:get_alarm_callback	160	static

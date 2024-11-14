@@ -1,0 +1,11 @@
+../ioLibrary_Driver/Ethernet/socket.c:105:8:socket	19
+../ioLibrary_Driver/Ethernet/socket.c:198:8:close	4
+../ioLibrary_Driver/Ethernet/socket.c:241:8:listen	6
+../ioLibrary_Driver/Ethernet/socket.c:297:8:disconnect	7
+../ioLibrary_Driver/Ethernet/socket.c:317:9:send	16
+../ioLibrary_Driver/Ethernet/socket.c:385:9:recv	14
+../ioLibrary_Driver/Ethernet/socket.c:490:9:sendto	19
+../ioLibrary_Driver/Ethernet/socket.c:594:9:recvfrom	25
+../ioLibrary_Driver/Ethernet/socket.c:780:9:ctlsocket	14
+../ioLibrary_Driver/Ethernet/socket.c:826:9:setsockopt	15
+../ioLibrary_Driver/Ethernet/socket.c:879:9:getsockopt	18

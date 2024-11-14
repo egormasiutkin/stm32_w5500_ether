@@ -1,0 +1,12 @@
+../MyApp/MyApp.cpp:77:6:bool loop()	8	static
+../MyApp/MyApp.cpp:104:6:bool loop2()	64	static
+../MyApp/MyApp.cpp:127:6:bool loop3()	8	static
+../MyApp/MyApp.cpp:141:6:void LogToBufferLog(char*, int)	24	static
+../MyApp/MyApp.cpp:157:6:void MyApp()	8	static
+../MyApp/MyApp.cpp:490:6:bool checkIfBadConfig()	24	static
+../MyApp/MyApp.cpp:547:6:void to_hex(char*, int)	16	static
+../MyApp/MyApp.cpp:557:6:char search(char*, char*)	24	static
+../MyApp/MyApp.cpp:568:6:void init_the_thing()	8	static
+../MyApp/MyApp.cpp:571:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../MyApp/MyApp.cpp:571:1:cpp)	8	static
+../MyApp/MyApp.cpp:571:1:cpp)	8	static

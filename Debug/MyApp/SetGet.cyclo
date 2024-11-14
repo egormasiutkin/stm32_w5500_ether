@@ -1,0 +1,24 @@
+../MyApp/SetGet.cpp:13:6:bool Ch376msc::getDeviceStatus()	1
+../MyApp/SetGet.cpp:16:6:bool Ch376msc::getCHpresence()	1
+../MyApp/SetGet.cpp:19:7:char* Ch376msc::getFileName()	1
+../MyApp/SetGet.cpp:24:6:void Ch376msc::setFileName(const char*)	1
+../MyApp/SetGet.cpp:37:9:uint8_t Ch376msc::getStatus()	1
+../MyApp/SetGet.cpp:41:10:uint32_t Ch376msc::getFileSize()	1
+../MyApp/SetGet.cpp:45:7:char* Ch376msc::getFileSizeStr()	3
+../MyApp/SetGet.cpp:71:6:void Ch376msc::setYear(uint16_t)	3
+../MyApp/SetGet.cpp:78:10:uint16_t Ch376msc::getYear()	1
+../MyApp/SetGet.cpp:84:6:void Ch376msc::setMonth(uint16_t)	3
+../MyApp/SetGet.cpp:89:10:uint16_t Ch376msc::getMonth()	1
+../MyApp/SetGet.cpp:95:6:void Ch376msc::setDay(uint16_t)	3
+../MyApp/SetGet.cpp:100:10:uint16_t Ch376msc::getDay()	1
+../MyApp/SetGet.cpp:107:6:void Ch376msc::setHour(uint16_t)	2
+../MyApp/SetGet.cpp:112:10:uint16_t Ch376msc::getHour()	1
+../MyApp/SetGet.cpp:117:6:void Ch376msc::setMinute(uint16_t)	2
+../MyApp/SetGet.cpp:121:10:uint16_t Ch376msc::getMinute()	1
+../MyApp/SetGet.cpp:128:6:void Ch376msc::setSecond(uint16_t)	2
+../MyApp/SetGet.cpp:133:10:uint16_t Ch376msc::getSecond()	1
+../MyApp/SetGet.cpp:142:6:void Ch376msc::constructDate(uint16_t, uint8_t)	5
+../MyApp/SetGet.cpp:180:6:void Ch376msc::constructTime(uint16_t, uint8_t)	5
+../MyApp/SetGet.cpp:218:10:uint32_t Ch376msc::getTotalSectors()	1
+../MyApp/SetGet.cpp:222:10:uint32_t Ch376msc::getFreeSectors()	1
+../MyApp/SetGet.cpp:226:9:uint8_t Ch376msc::getFileSystem()	1

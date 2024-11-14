@@ -1,0 +1,10 @@
+../Core/Src/w5500_init.c:9:6:wizchip_select	1
+../Core/Src/w5500_init.c:14:6:wizchip_deselect	1
+../Core/Src/w5500_init.c:19:9:wizchip_read	1
+../Core/Src/w5500_init.c:26:6:wizchip_write	1
+../Core/Src/w5500_init.c:31:6:wizchip_readburst	1
+../Core/Src/w5500_init.c:36:6:wizchip_writeburst	1
+../Core/Src/w5500_init.c:41:6:delay_cnt	2
+../Core/Src/w5500_init.c:47:6:Display_Net_Conf	2
+../Core/Src/w5500_init.c:70:6:Net_Conf	1
+../Core/Src/w5500_init.c:85:6:W5500_Init	3

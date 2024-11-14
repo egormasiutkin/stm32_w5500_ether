@@ -1,0 +1,10 @@
+../MyApp/comm.cpp:7:6:void delayMicroseconds(int)	1
+../MyApp/comm.cpp:12:5:int millis()	1
+../MyApp/comm.cpp:18:9:uint8_t Ch376msc::readSerDataUSB()	1
+../MyApp/comm.cpp:49:9:uint8_t Ch376msc::spiReadData()	1
+../MyApp/comm.cpp:58:6:void Ch376msc::print(char*)	4
+../MyApp/comm.cpp:75:6:void Ch376msc::spiReady()	1
+../MyApp/comm.cpp:88:9:uint8_t Ch376msc::spiWaitInterrupt()	2
+../MyApp/comm.cpp:105:9:uint8_t Ch376msc::getInterrupt()	1
+../MyApp/comm.cpp:115:6:void Ch376msc::spiBeginTransfer()	1
+../MyApp/comm.cpp:124:6:void Ch376msc::spiEndTransfer()	1
